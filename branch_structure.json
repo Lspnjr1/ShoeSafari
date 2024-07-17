@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "Preview",
+    "fix/issue-100",
+    "fix/issue-46",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "Preview": "main",
+    "fix/issue-100": "main",
+    "fix/issue-46": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "Preview",
+    "fix/issue-100",
+    "fix/issue-46",
+    "origin"
+  ]
+}
